@@ -92,3 +92,17 @@ td {
 	padding: 0.6rem;
 	border: 1px solid var(--primary-color);
 }
+
+footer {
+	text-align: center;
+	margin-top: 4rem;
+}
+
+a,
+img,
+li {
+	display: inline;
+	margin: 0.4rem;
+	width: 30px;
+	height: 30px;
+}
